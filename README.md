@@ -1,1 +1,1 @@
-﻿# ProyectoSimulacion-APACHE-II-ICU
+# APACHE-II-ICU
